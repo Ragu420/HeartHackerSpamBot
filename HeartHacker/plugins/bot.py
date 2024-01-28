@@ -30,11 +30,11 @@ async def alive(event):
                                   caption=rizoel,
                                   buttons=[
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/YamlokOfficial"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/LHTHALxFIGHTERS")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Kanavellam_Neethaney"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/Heaven_vibezz")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/AT-WORLDS-END/HeartHackerSpamBot")
+        Button.url("• ʀᴇᴘᴏ •", "https://telegra.ph/file/05dd3cc695d3a12ff51ab.mp4")
         ]
         ]
         )
